@@ -5,7 +5,7 @@ function setup() {
   // Sfondo
   background('#891233');
   noStroke();
-  fill(0,0,0,30);
+  fill(0,0,0,40);
   rect(0, height/2+50, width, height/2-50);
 
   // Shadow
